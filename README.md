@@ -1,3 +1,5 @@
+![img](https://github.com/YIngChenIt/Ying/blob/master/base.gif) 
+
 ## 进入每个程序
 `npm i`
 
